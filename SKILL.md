@@ -63,4 +63,4 @@ description: >-
 
 ## 触发词（便于检索）
 
-微信公众号、服务号、图文、草稿箱、自动发布、`draft/add`、`access_token`、`thumb_media_id`、素材上传、公众平台 IP 白名单。
+微信公众号自动发布、`draft/add`、`access_token`、`thumb_media_id`、素材上传、公众平台 IP 白名单。
